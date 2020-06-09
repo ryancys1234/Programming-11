@@ -1,2 +1,2 @@
 # Programming 11
-This folder contains all the projects worked on for the Programming 11 course (away from school) during the 2018-2019 year.
+This repository contains selected projects for the Programming 11 course. They were worked on during the 2018-2019 year, outside of the course attendance.
