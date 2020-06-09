@@ -1,2 +1,2 @@
 # Programming 11
-This repository contains selected projects for the Programming 11 course. They were worked on during the 2018-2019 year, outside of the course attendance.
+This repository contains selected projects for the Programming 11 course. They done during the 2018-2019 year, outside of the course attendance.
