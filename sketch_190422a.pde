@@ -9,7 +9,7 @@ void setup() {
 void draw() {
   background(red,green,blue);
  
-   noStroke();
+  noStroke();
   if (dist(400,150,mouseX,mouseY) <= 50) {
     fill(#2725CE);
   } else {
@@ -27,7 +27,7 @@ void draw() {
   
   ellipse(400,300,100,100);
   
-    noStroke();
+  noStroke();
   if (dist(400,450,mouseX,mouseY) <= 50) {
     fill(#0FD33B);
   } else {
@@ -35,7 +35,6 @@ void draw() {
   }
   
   ellipse(400,450,100,100);
-  
 }
 
 void mouseReleased() {
